@@ -12,6 +12,6 @@ deploy:
   provider: releases
   api_key:
     secure: kFA9bSHRK0WO+jz6XP2fWc+Ao/fNtZ5sZeaD/WnxngHKs1JD6hMdYz0hH8JAvSPwZmqGIT1w5zE/hKCsaKyOVl9mqE2GSSkqqvbJr1hKWiRUxbvs1ex+Wr1hL70PVdecNuDQk/meZ66KXT8OQLOH4GJag5ROkivMtrDA+H7s+5BtixlAM+vlZCbDgV3JZJ5PD3W/KSCkRAVDu7vQ3LEulMd+kAHX2DpgfqOk3YqFDlPMGIhxhg11bWKUlKJwkV2BmI2XLVuReE6vheaSnXxCOle8OUnNthORXG7K05jPG9xMOtbctpJGGvWl/sriovJ+1dFNQp/VO2FGjZDxZGRoySnUtuwcaQNkZm/ek0v1rQOmTH2Aug/OsrR2mKFFjXw8TxZMc1tZ1W1rtYEX58yKxkEHFOAvDIaYV7Rnt+EayyP/rN+Pu8q8uamNyRSEIkqEe90GHNdoEdkqSzwgT5VIVuCw5kn0StKGIp59TyAs+PnXXjwl5HDJZlSKI4GraJOU82MFioYRbwXF3Q7eyJLboW55DHJSxI0VYvMRmopsS8dtsTcZDQCMp8h7LoXmDJo8yj6mQYu0q6EUCJVGdx9pSASbcCTLOcrOhfGS+mdXJL610P6dfIZFUaFHJrWcSGe7I3HSg3Z+wI17L0FjxhhzzA5xmi4Gc9zE340sGxJNjqM=
-  file: ''
+  file: 'app.js'
   on:
     repo: utinajero/hello-jenkins
